@@ -8,7 +8,7 @@ Data analysis is the process of sifting through data to extract meaning and unco
 - Power bi
 - Sql
 - Python[Download Here](https//microsoft.com)
-
+![](IMG-20220201-WA0024.jpg)
 
 ~~~
 Google Query Sheet
