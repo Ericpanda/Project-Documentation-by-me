@@ -8,5 +8,15 @@ Data analysis is the process of sifting through data to extract meaning and unco
 - Power bi
 - Sql
 - Python[Download Here](https//microsoft.com)
+
+
+~~~
+Google Query Sheet
+
+SELECT * FROM TABLE 1
+WHERE CONDITION = NET
+
+
+  
   
 
