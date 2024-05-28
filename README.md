@@ -10,6 +10,10 @@ Data analysis is the process of sifting through data to extract meaning and unco
 - Python[Download Here](https//microsoft.com)
 ![](IMG-20220201-WA0024.jpg)
 
+| Heading 1 | Heading 2 | Heading 3 |
+|---------| |----------| |--------|
+[Table 1 | Table 2 |Table 3 |
+
 ~~~
 Google Query Sheet
 
