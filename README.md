@@ -8,6 +8,7 @@ Data analysis is the process of sifting through data to extract meaning and unco
 - Power bi
 - Sql
 - Python[Download Here](https//microsoft.com)
+![](Deck Page 01.png) 
 ![](IMG-20220201-WA0024.jpg)
 
 | Heading 1 | Heading 2 | Heading 3 |
